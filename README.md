@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GeovaniHatuu but can call me Hatuu
+- 👋 Hi, I’m @GeovaniHatuu but you can call me Hatuu
 - 👀 I’m interested in working with programming
 - 🌱 I’m currently learning HTML5, CSS3 and JS
 - 📫 How to reach me with a email geovaniprogram@gmail.com
